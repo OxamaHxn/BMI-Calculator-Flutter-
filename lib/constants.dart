@@ -7,7 +7,7 @@ const kBottomContainerColour = Color(0xFFEf9a9a);
 
 const kLabelTextStyle = TextStyle(
   fontSize: 18.0,
-  color: Color(0xFF8D8E98),
+  color: Color(0xFF212121),
 );
 
 const kNumberTextStyle = TextStyle(
